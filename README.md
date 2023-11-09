@@ -1,16 +1,30 @@
 ### Hi there 👋
+## Currently i'm working as iOS Developer in Sparkout Tech Solution
+## ✨ Expertise:
+- Swift, Dart
+- iOS App Development
+- Flutter App Development
+- Design Patterns (MVC | MVVM)
+- Firebase Cloud Messaging
+- Google Map Services
+- Version Control (Git)
 
-<!--
-**parthipan1908/parthipan1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Learning
+- [x] RxSwift
+- [x] SwiftUI
+- [ ] Combine
+- [ ] Unit Testing
+- [ ] UI Testing
+- [x] SSL Pinning
+- [x] Custom framework
 
-Here are some ideas to get you started:
+## Other Domains
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [Email](mailto:vmnparthi1998@gmail.com)
+- [Github](https://www.github.com/parthipan1908)
+
+
+##
+## Let me know if you want any help, Bye 👋
